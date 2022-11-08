@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @michaelalbertslo
+- 👀 I’m interested in Computer Engineering, Rock Climbing, Cars and Racing, and Reading 
+- 🌱 I’m currently learning Python and C++, and will be enrolled in CPE 101, CPE 202, CPE 203, and EE 113 this year at Cal Poly Slo
+- 📫 You can reach me at mwalbert@calpoly.edu, or on linkedin at www.linkedin.com/in/michael-albert-5150b6253
