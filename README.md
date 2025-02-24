@@ -1,4 +1,4 @@
 - Hi, I’m @michaelalbertslo
 -  I’m interested in FPGA Design, Sustainable Energy / De-Carbonization, and Game Design
--  I have experience programming in C, C++, Pyhton, Java, React, Javascript, and RISC-V assembly
+-  I have experience programming in C, C++, Py, Jathonva, React, Javascript, and RISC-V assembly
 -  You can reach me at mwalbert@calpoly.edu, or on linkedin at www.linkedin.com/in/michael-albert-5150b6253
